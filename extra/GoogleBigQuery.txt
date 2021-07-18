@@ -1,0 +1,19 @@
+
+
+
+
+Navigate to BigQuery web UI on Google Cloud Console, copy and paste the following query, and then hit the “Run” button.
+
+
+SELECT
+  *
+FROM
+  [fh-bigquery:reddit_comments.all]
+WHERE
+  subreddit = 'trumpservative'
+  
+  
+For example, here, we want to get all the comments for 'trumpservative' subreddit. 
+
+You can then save the results, you have two options as CSV file (if it is less than 10 gb), or as a BigQuery Table.
+
