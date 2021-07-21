@@ -10,7 +10,7 @@ This repository holds Jupyter Notebooks and slides related to this tutorial.
 
 # Requirements:
 - Install Jupyter Notebook
-- Download the data (Mumsnet and Reddit data) from https://osf.io/fgxed/?view_only=a1b5afe488db4014b3f21ed808bcceb9 
+- Download the datasets (Mumsnet and Reddit data from  https://osf.io/974fc/?view_only=a1b5afe488db4014b3f21ed808bcceb9 and https://osf.io/qp6cs/?view_only=a1b5afe488db4014b3f21ed808bcceb9).
 - Clone the package, and save the datasets in ./data folder
 
 You can then launch the notebooks.
